@@ -6,7 +6,7 @@ Michael Lonsway
 m.lonsway@yahoo.com        home (760) 943-1499  mobile (415)246-2264
 
 EDUCATION & Certification:
-*University of California, Los Angeles          Biology Major: Current GPA 3.98                           9/2016 to Present
+University of California, Los Angeles          Biology Major: Current GPA 3.98                           9/2016 to Present
 National, CA State & County EMT License (NREMT Certified)                                       January 2017 to Present
 Health Academy of CA, Emergency Medical Technician                                                 Graduation August 2016
 California DN\MV Ambulance Driver certificate                                                                                    March 2016
@@ -16,9 +16,9 @@ San Dieguito High School Academy, Encinitas, CA     GPA 4.32:                   
 
 EXPERIENCE:
 CARE AMBULANCE SERVICES, SAN DIEGO CA                                                                             JUNE 2018 - AUGUST 2018
-.	Emergency Medical Technician, Bi-Lingual (ambulance patient care)                              
-o	Received formal orientation training, which included HIPAA, legal, and medical device training
-o	Treated and transported patients in critical condition with nursing staff in ambulance and helped manage EKG
++Emergency Medical Technician, Bi-Lingual (ambulance patient care)                              
++Received formal orientation training, which included HIPAA, legal, and medical device training
++Treated and transported patients in critical condition with nursing staff in ambulance and helped manage EKG
 o	Serviced patients with mental health issues including dementia and schizophrenia
 o	Transported and treated patients with trauma and medical conditions
 o	Paperwork was completed electronically via ipad; included full narrative of incident and patient vitals throughout call
