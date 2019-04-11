@@ -1,95 +1,133 @@
 # Curriculum Vitae
 
-Michael Lonsway
+# Curriculum Vitae
 
-810 Calle Santa Cruz Encinitas, Ca 92024      
-m.lonsway@yahoo.com        home (760) 943-1499  mobile (415)246-2264
+## Personal Details
 
-EDUCATION & Certification:
-University of California, Los Angeles          Biology Major: Current GPA 3.98                           9/2016 to Present
-National, CA State & County EMT License (NREMT Certified)                                       January 2017 to Present
-Health Academy of CA, Emergency Medical Technician                                                 Graduation August 2016
-California DN\MV Ambulance Driver certificate                                                                                    March 2016
-CPR Certified                                                                                                                               7/2015 to Present
-San Dieguito High School Academy, Encinitas, CA     GPA 4.32:                                            Diploma 6/10/2016  
+**Name:** Michael Lonsway <br>
+**Email:** m.lonsway@yahoo.com  <br>
+**Date of birth:** 6/10/98  <br>
+**Nationality:** American  <br>
+**Marital Status:** Single  <br>
 
+## Skills
 
-EXPERIENCE:
-CARE AMBULANCE SERVICES, SAN DIEGO CA                                                                             JUNE 2018 - AUGUST 2018
-*Emergency Medical Technician, Bi-Lingual (ambulance patient care)                              
-*Received formal orientation training, which included HIPAA, legal, and medical device training
-*Treated and transported patients in critical condition with nursing staff in ambulance and helped manage EKG
-o	Serviced patients with mental health issues including dementia and schizophrenia
-o	Transported and treated patients with trauma and medical conditions
-o	Paperwork was completed electronically via ipad; included full narrative of incident and patient vitals throughout call
-o	Gave full turnover report to physicians, nurses, and admissions staff
-o	Oversaw EMT student ride-alongs; answering questions and explaining paperwork and patient interaction
+**Medium level** <br>
+C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
 
-AIRCARE INT'L,  CARLSBAD CA                                                                                                         JUNE 2017 - OCTOBER 2017                                                                                                                              
-.	Emergency Medical Technician, Bi-Lingual (rotation:  patient care and ambulance driver)
-o	BLS: Basic Life Support and Long-Distance Ground Transports:  rotated with partner driving ambulance vs. direct patient care
-o	Treated and transported patients in emergency situations: stroke, external bleeding, mental health, trauma, ALOC, cardiac, seizure
-o	Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses
-o	Completed and submitted patient reports hard copy and electronically to San Diego County for records
+**Beginner level** <br>
+C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS, Elasticsearch.
 
-UNIVERSITY OF CALIFORNIA, LOS ANGELES,  CA       EXTRACURRICULAR                           SEPTEMBER 2016 - PRESENT 
-.	UCLA Care Extender at Ronald Reagan Hospital: ER, Surgery Center, 7ICU, 8ICU, MICU, PICU, West Thoracic Cardio Unit:
-o	Assisted doctors/nurses with daily tasks and supervised patients
-o	Observed procedures such as bronchoscopy, intubation, and aortic balloon placement
-o	Brought medical supplies to different departments and aided critical care patients with feeding
-o	Transferred patient calls to appropriate medical staff
-.	Department Coordinator Assistant at Ronald Reagan Hospital                                                           FEBRUARY 2018- MAY 2018
-o	Performed shift sweeps in order to get feedback from hospital staff about the hospital operations
-o	Interviewed patients about their experience at the hospital 
-o	Presented patient and staff feedback to doctors and nurses
+## Related Work Experience
 
-COMMUNITY SERVICE                                                                                                              SEPTEMBER 2014 -  PRESENT
-.	Del Mar Holiday Gift Baskets for the Needy:  prepare food baskets and docent for this annual holiday event providing food and toys for the underprivileged San Diego residents
-.	Olivenhain Guest Home Memory Care:  pet therapy for seniors to help with decreased loneliness and provide stress release
-.	Scripps Hospital Encinitas:  Volunteered weekly for 3 years at the information desk and events such as the Gala.  Translated Spanish to English as needed.
-.	Ronald McDonald House Charities San Diego - Volunteered during the summer doing the laundry and cleaning facility each week for the families who stay there.    
-.	San Dieguito High School Academy, Encinitas, CA - Alumni speaker:  college choice preparation and speech & debate workshops                                         
+**2016 - present** <br>
+**Institutional bond with the <a href="https://www.ifpb.edu.br/">IFPB</a>** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de CompetÃªncias"</a>. <br>
+Made with Django and PostgreSQL. <br>
+**Function:** with this engine it's possible to research professors working in the IFPB - Instituto Federal da ParaÃ­ba. Can find using name or skills.
 
-SAN DIEGUITO ACADEMY HIGH SCHOOL, ENCINITAS, CA                                                     SEPTEMBER 2012 - JUNE 2016 
-.	Fluent in Spanish, passed AP exam and founder of SDA Latino Cultural Club.
-.	National Honor Society:  tutored students in math, Spanish & science.  Meetings for scheduling, fundraising and book drives
-.	Tennis Team, Junior Varsity:  Competed in tournaments and received Most Improved Award. 
-.	Speech and Debate Team:  Awarded in impromptu and policy, captain of parliamentary debate, 2015-2016 school year.
-.	Young Leaders in Health Care Club, Treasurer: attended weekly meetings along with monthly lectures at Scripps Hospital.
-.	Academic Excellence Awards in: Biology 2013, AP Physics 2015, AP Psychology 2015, World History 2014, AP US History 2015
-.	AP Scholars Award:  outstanding college-level achievement through AP courses and exams. 
+## Personal Projects
 
-COUNTY OF SAN DIEGO 2015 VOLUNTEER OF THE YEAR AWARD                                                                                         2015 
-.	Recognized by the County of San Diego Board of Supervisors and first teen presented with this citizenship award for philanthropy. 
+**2017 - 2017** <br>
+**Knight Academy** - <a href="https://play.google.com/store/apps/details?id=com.tempolivregames.KnightAcademy&hl=pt_BR">Puzzle game</a> for Android made with Unity and C#. <br>
+**Roles:** Game Designer and Developer. <br>
+**Team:** two persons, the other is the game artist.
 
-BUCK INSTITUTE FOR RESEARCH ON AGING, 2015 FULL TIME SUMMER SCHOLARS PROGRAM    JUNE - AUGUST 2015 
-.	Science research internship; worked in Lithgow Laboratory with mentor, Dr. Dumas. Conducted primary research of PAA-1 proteins and its effects on health span. Presented findings to scientists showing methodology, research, graphs and future directions.
+**2017 - 2017** <br>
+**Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
 
-RADY CHILDREN'S HOSPITAL-SAN DIEGO SUMMER MEDICAL ACADEMY                                                                  JULY 2014
-.	Summer Medical Seminar and Interactive Laboratory Rotation:  Rady Children's Hospital in collaboration with UC San Diego
-School of Medicine, Skaggs School of Pharmacy and Pharmaceutical / Diagnostic Private Sector Firms.
+## Education
 
-RADIATION ONCOLOGY ASSOCIATES SAN DIEGO / CYBERKNIFE OF S. CA AT VISTA                                           JULY 2013
-.	Shadowed Oncologist Patrick Linson MD, MPH, DABR, Medical Director:  communicated with patients & medical professionals. 
+**2014 - 2018** <br>
+**Technology and Systems for Internet** - IFPB (Federal Institute of ParaÃ­ba)  
 
-SAN DIEGO 4-H                                                         	                                                                   SEPTEMBER 2006 - AUGUST 2016
-      STATE LEVEL
-.	Wrote and received Community Service Grant for $1000. Successfully organized and led events at Ronald McDonald House. 
-.	Committee leader for Turner Syndrome Fun Run raising $7,000.
-.	Member of 4-H Task Force to reinvent 4-H, improve public relations and increase membership (2013-2014).
-.	Attended annual 4-H State Leadership & Conference:  Summer camp at UC Davis and UC Santa Cruz.
-.	4-H Area Presentation Competition, 2013 - 2015 Gold Medals in categories:  Extemporaneous, Impromptu & Illustrated Speech.
-      COUNTY LEVEL
-.	4-H All Star Ambassador: planned county, sectional and state events. (2014-2016). 
-.	President of San Diego Teen Council, overseeing all 37 of the San Diego Chapters (2013-2014)
-o	Chaired Teen Council Meetings, developed agendas and organized committees for projects.
-o	Planned club competitions such as Presentation Day and organized 4-H fundraisers.
-o	Teen chairman of Junior Leadership Camp, an overnight winter camp to help develop leadership skills.    
-o	Organized 4-H County events:  Family Fun Night, Leader Awards Night, 4-H Ballpark Day and Jr. Leadership Camp.
-.	Vice President of San Diego County Teen Council (2012 - 2013).
-     OLIVENHAIN 4-H CHAPTER:  INVOLVED TO ASSIST IN CHAPTER GROWTH OF MEMBERSHIP 
-.	Executive Board Leadership (2009 - 2016):  Teen Leader, Sergeant of Arms, Treasurer, Vice President and President. 
-o	Organized chapter's finances, activities, meetings, community outreach and membership events /camps.
-o	Teen Leader for Veterinarian Science Group, Record Keeping Group, Science & Engineering Group.
-.	Community Service Officer, Olivenhain Chapter  (2012-2014):  Organized monthly community service events:
-o	Father Joe's Kitchen and Bread of Life (prepared & served meals), Del Mar Holiday Gift Baskets for the needy, Fruit Picking (donation to Saint Andrew's Food Bank), Pet Therapy (quarterly visits to senior centers & rehabilitation/nursing facilities).
+**2009 - 2013 (interrupted)** <br>
+**Mechanical Engineering** - UFPB (Federal University of ParaÃ­ba) Â  Â 
+
+**2006 - 2008** <br>
+**High School** - Marista Pio X 
+
+## Certificates
+
+**2018**<br>
+**Scrum Fundamentals Certified** <br>
+SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
+
+**2013** <br>
+**Empretec (60h)** <br>
+SEBRAE - RN, Brazil. 
+
+**2013** <br>
+**Motivating and Managing People (15h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**Starting a Small and Big Business (30h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**MEI Micropreneur Individual (5h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**Learn to endeavor (16h)** <br>
+EAD SEBRAE - Brazil.
+
+**2013** <br>
+**Web Designer (160h)** <br>
+SENAC - PB, Brazil.
+
+## Training
+
+**2018 - 2018** <br>
+**Algorithmic Problems in Java (7h)** <br>
+Udemy - USA.
+
+**2018 - 2018** <br>
+**Scrum - Patterns of Agile Adoption (2h)** <br>
+Udemy - USA.
+
+**2017 - 2017(interrupted)** <br>
+**Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
+Udemy - USA.
+
+**2017 - 2017** <br>
+**Complete Guide to Elasticsearch (11h)** <br>
+Udemy - USA.
+
+**2017 - 2017 (interrupted)** <br>
+**Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
+Udemy - USA.
+
+**2017 - 2017** <br>
+**Introduction to Laravel 5.3 (4h)** <br>
+Udemy - USA.
+
+**2017 - 2017** <br>
+**GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
+Udemy - USA.
+
+**2017 - 2017** <br>
+**The Board Game Developer - Become A Game Design Ninja (6h)** <br>
+Udemy - USA.
+
+**2017 - 2017** <br>
+**Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
+Udemy - USA.
+
+**2016 - 2016** <br>
+**The Complete SQL Bootcamp (8h)** <br>
+Udemy - USA.
+
+**2016 - 2016** <br>
+**Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
+Udemy - USA.
+
+## Other skills
+
+**Brazilian Portuguese:** native <br>
+**English:** advanced <br>
+
+## Training with programming challenges
+
+**Codewars bagdes:** <br>
+![alt text](https://www.codewars.com/users/VSPPedro/badges/large)
