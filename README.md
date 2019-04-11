@@ -6,7 +6,7 @@ Michael Lonsway
 m.lonsway@yahoo.com        home (760) 943-1499  mobile (415)246-2264
 
 EDUCATION & Certification:
-University of California, Los Angeles          Biology Major: Current GPA 3.98                           9/2016 to Present
+*University of California, Los Angeles          Biology Major: Current GPA 3.98                           9/2016 to Present
 National, CA State & County EMT License (NREMT Certified)                                       January 2017 to Present
 Health Academy of CA, Emergency Medical Technician                                                 Graduation August 2016
 California DN\MV Ambulance Driver certificate                                                                                    March 2016
