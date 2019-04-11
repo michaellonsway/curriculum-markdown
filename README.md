@@ -25,22 +25,17 @@ Treated and transported patients in emergency situations: stroke, external bleed
 Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses <br>
 Completed and submitted patient reports hard copy and electronically to San Diego County for records <br>
 
+## Volunteer Work
+
+**2017 - present** <br>
+**Care Extender Internship** Volunteered at UCLA hospital as a Care Extender <br>
+**Roles:** Assisted doctors, nurses, and patients and observed surgeries <br>
 
 
-## Personal Projects
-
-**2017 - 2017** <br>
-**Knight Academy** - <a href="https://play.google.com/store/apps/details?id=com.tempolivregames.KnightAcademy&hl=pt_BR">Puzzle game</a> for Android made with Unity and C#. <br>
-**Roles:** Game Designer and Developer. <br>
-**Team:** two persons, the other is the game artist.
-
-**2017 - 2017** <br>
-**Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
+**2014 - present** <br>
+**4-H Community Service** Participated in community service events in 4-H such as pet therapy and volunteering at homeless shelters <br>
 
 ## Education
-
-**2014 - 2018** <br>
-**Technology and Systems for Internet** - IFPB (Federal Institute of ParaÃ­ba)  
 
 **2016 - present** <br>
 **Biology** - University of California Los Angeles (UCLA)
@@ -50,86 +45,31 @@ Completed and submitted patient reports hard copy and electronically to San Dieg
 
 ## Certificates
 
-**2018**<br>
-**Scrum Fundamentals Certified** <br>
+**2017**<br>
+**EMT Certified** Received Emergency Medical Technician Certification<br>
 SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
 
-**2013** <br>
-**Empretec (60h)** <br>
-SEBRAE - RN, Brazil. 
-
-**2013** <br>
-**Motivating and Managing People (15h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013** <br>
-**Starting a Small and Big Business (30h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013** <br>
-**MEI Micropreneur Individual (5h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013** <br>
-**Learn to endeavor (16h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013** <br>
-**Web Designer (160h)** <br>
-SENAC - PB, Brazil.
+**2017** <br>
+**Ambulance License Certified** Received ambulance license from DMV <br>
 
 ## Training
 
-**2018 - 2018** <br>
-**Algorithmic Problems in Java (7h)** <br>
+**June 2018** <br>
+**Care Ambulance EMT Training (7h)** Trained on how to complete electronic EMT reports and how to provide primary patient care <br>
 Udemy - USA.
 
-**2018 - 2018** <br>
-**Scrum - Patterns of Agile Adoption (2h)** <br>
-Udemy - USA.
+**June 2017** <br>
+**AirCare EMT Training** Trained on how to complete paper and electronic EMT reports and how to drive the ambulance <br>
 
-**2017 - 2017(interrupted)** <br>
-**Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**Complete Guide to Elasticsearch (11h)** <br>
-Udemy - USA.
-
-**2017 - 2017 (interrupted)** <br>
-**Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**Introduction to Laravel 5.3 (4h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**The Board Game Developer - Become A Game Design Ninja (6h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
-Udemy - USA.
-
-**2016 - 2016** <br>
-**The Complete SQL Bootcamp (8h)** <br>
-Udemy - USA.
-
-**2016 - 2016** <br>
-**Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
-Udemy - USA.
+**February 2017** <br>
+**Care Extender Training** Learned how to transport patients in wheelchairs and gurneys. Trained on how to provide basic patient care <br>
 
 ## Other skills
 
-**Brazilian Portuguese:** native <br>
-**English:** advanced <br>
+**Spanish:** Advanced <br>
+**English:** Advanced <br>
 
-## Training with programming challenges
-
-**Codewars bagdes:** <br>
-![alt text](https://www.codewars.com/users/VSPPedro/badges/large)
+## Research
+**2017 - present** <br>
+**Buck Institute Internship** Conducted primary research at the Buck Institute for Aging<br>
+**Roles:** Studied the effects of PAA-1 proteins on health span and presented results to the Lithgow Lab <br>
