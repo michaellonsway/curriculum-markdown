@@ -20,10 +20,10 @@
 
 **June 2017 - October 2017** <br>
 Emergency Medical Technician, Bi-Lingual (rotation:  patient care and ambulance driver) <br>
-*** BLS: Basic Life Support and Long-Distance Ground Transports:  rotated with partner driving ambulance vs. direct patient care
-*** Treated and transported patients in emergency situations: stroke, external bleeding, mental health, trauma, ALOC, cardiac, seizure
-*** Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses
-*** Completed and submitted patient reports hard copy and electronically to San Diego County for records
+BLS: Basic Life Support and Long-Distance Ground Transports:  rotated with partner driving ambulance vs. direct patient care <br>
+Treated and transported patients in emergency situations: stroke, external bleeding, mental health, trauma, ALOC, cardiac, seizure <br>
+Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses <br>
+Completed and submitted patient reports hard copy and electronically to San Diego County for records <br>
 
 
 
