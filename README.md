@@ -47,7 +47,7 @@ Completed and submitted patient reports hard copy and electronically to San Dieg
 
 **2017**<br>
 **EMT Certified** Received Emergency Medical Technician Certification<br>
-SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
+
 
 **2017** <br>
 **Ambulance License Certified** Received ambulance license from DMV <br>
@@ -56,7 +56,7 @@ SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
 
 **June 2018** <br>
 **Care Ambulance EMT Training (7h)** Trained on how to complete electronic EMT reports and how to provide primary patient care <br>
-Udemy - USA.
+
 
 **June 2017** <br>
 **AirCare EMT Training** Trained on how to complete paper and electronic EMT reports and how to drive the ambulance <br>
