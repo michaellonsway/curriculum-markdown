@@ -16,9 +16,9 @@ San Dieguito High School Academy, Encinitas, CA     GPA 4.32:                   
 
 EXPERIENCE:
 CARE AMBULANCE SERVICES, SAN DIEGO CA                                                                             JUNE 2018 - AUGUST 2018
-+Emergency Medical Technician, Bi-Lingual (ambulance patient care)                              
-+Received formal orientation training, which included HIPAA, legal, and medical device training
-+Treated and transported patients in critical condition with nursing staff in ambulance and helped manage EKG
+*Emergency Medical Technician, Bi-Lingual (ambulance patient care)                              
+*Received formal orientation training, which included HIPAA, legal, and medical device training
+*Treated and transported patients in critical condition with nursing staff in ambulance and helped manage EKG
 o	Serviced patients with mental health issues including dementia and schizophrenia
 o	Transported and treated patients with trauma and medical conditions
 o	Paperwork was completed electronically via ipad; included full narrative of incident and patient vitals throughout call
