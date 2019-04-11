@@ -42,11 +42,11 @@ Completed and submitted patient reports hard copy and electronically to San Dieg
 **2014 - 2018** <br>
 **Technology and Systems for Internet** - IFPB (Federal Institute of ParaÃ­ba)  
 
-**2009 - 2013 (interrupted)** <br>
-**Mechanical Engineering** - UFPB (Federal University of ParaÃ­ba) Â  Â 
+**2016 - present** <br>
+**Biology** - University of California Los Angeles (UCLA)
 
-**2006 - 2008** <br>
-**High School** - Marista Pio X 
+**2012 - 2016** <br>
+**High School** - San Dieguito Academy 
 
 ## Certificates
 
