@@ -19,7 +19,7 @@
 ## Related Work Experience
 
 **June 2017 - October 2017** <br>
-**Emergency Medical Technician, Bi-Lingual (rotation:  patient care and ambulance driver)
+Emergency Medical Technician, Bi-Lingual (rotation:  patient care and ambulance driver) <br>
 *** BLS: Basic Life Support and Long-Distance Ground Transports:  rotated with partner driving ambulance vs. direct patient care
 *** Treated and transported patients in emergency situations: stroke, external bleeding, mental health, trauma, ALOC, cardiac, seizure
 *** Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses
