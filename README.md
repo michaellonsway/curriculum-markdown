@@ -1,7 +1,5 @@
 # Curriculum Vitae
 
-# Curriculum Vitae
-
 ## Personal Details
 
 **Name:** Michael Lonsway <br>
