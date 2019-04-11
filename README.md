@@ -65,7 +65,7 @@ Completed and submitted patient reports hard copy and electronically to San Dieg
 ## Other skills
 
 **Spanish:** Advanced <br>
-**English:** Advanced <br>
+**English:** Native <br>
 
 ## Research
 **2017 - Present** <br>
