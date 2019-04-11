@@ -25,7 +25,7 @@
 *** Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses
 *** Completed and submitted patient reports hard copy and electronically to San Diego County for records
 
-**Function:** with this engine it's possible to research professors working in the IFPB - Instituto Federal da ParaÃ­ba. Can find using name or skills.
+
 
 ## Personal Projects
 
