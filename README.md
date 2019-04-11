@@ -12,9 +12,9 @@
 
 ## Skills
 
-**Emergency Medical Technician certified
-**Ambulance license certified
-**Fluent in Spanish
+**Emergency Medical Technician certified** <br>
+**Ambulance license certified** <br>
+**Fluent in Spanish** <br>
 
 ## Related Work Experience
 
