@@ -27,17 +27,17 @@ Completed and submitted patient reports hard copy and electronically to San Dieg
 
 ## Volunteer Work
 
-**2017 - present** <br>
+**2017 - Present** <br>
 **Care Extender Internship** Volunteered at UCLA hospital as a Care Extender <br>
 **Roles:** Assisted doctors, nurses, and patients and observed surgeries <br>
 
 
-**2014 - present** <br>
+**2014 - Present** <br>
 **4-H Community Service** Participated in community service events in 4-H such as pet therapy and volunteering at homeless shelters <br>
 
 ## Education
 
-**2016 - present** <br>
+**2016 - Present** <br>
 **Biology** - University of California Los Angeles (UCLA)
 
 **2012 - 2016** <br>
@@ -70,6 +70,6 @@ Completed and submitted patient reports hard copy and electronically to San Dieg
 **English:** Advanced <br>
 
 ## Research
-**2017 - present** <br>
+**2017 - Present** <br>
 **Buck Institute Internship** Conducted primary research at the Buck Institute for Aging<br>
 **Roles:** Studied the effects of PAA-1 proteins on health span and presented results to the Lithgow Lab <br>
