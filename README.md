@@ -12,17 +12,19 @@
 
 ## Skills
 
-**Medium level** <br>
-C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
-
-**Beginner level** <br>
-C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS, Elasticsearch.
+**Emergency Medical Technician certified
+**Ambulance license certified
+**Fluent in Spanish
 
 ## Related Work Experience
 
-**2016 - present** <br>
-**Institutional bond with the <a href="https://www.ifpb.edu.br/">IFPB</a>** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de CompetÃªncias"</a>. <br>
-Made with Django and PostgreSQL. <br>
+**June 2017 - October 2017** <br>
+**Emergency Medical Technician, Bi-Lingual (rotation:  patient care and ambulance driver)
+*** BLS: Basic Life Support and Long-Distance Ground Transports:  rotated with partner driving ambulance vs. direct patient care
+*** Treated and transported patients in emergency situations: stroke, external bleeding, mental health, trauma, ALOC, cardiac, seizure
+*** Assessed patient condition.  Gave turnover reports and consulted patient condition with emergency room doctors/nurses
+*** Completed and submitted patient reports hard copy and electronically to San Diego County for records
+
 **Function:** with this engine it's possible to research professors working in the IFPB - Instituto Federal da ParaÃ­ba. Can find using name or skills.
 
 ## Personal Projects
